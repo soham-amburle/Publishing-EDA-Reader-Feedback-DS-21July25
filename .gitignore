@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# MyPy cache
+.mypy_cache/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Unit test / temp
+__pypackages__/
+*.bak
+*.tmp
+
+# IPython history
+.history
+
+# VSCode Python-specific
+*.code-workspace
