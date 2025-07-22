@@ -1,3 +1,4 @@
+21 July, 2025
 # 📊 Publishing EDA (Reader Feedback Dataset)
 
 This project performs an Exploratory Data Analysis (EDA) on large-scale reader feedback collected by a publishing firm. Readers provide reviews and ratings after interacting with magazines, journals, and e-books. The objective is to extract meaningful insights from this data to help the publishing team understand satisfaction levels, content performance, and purchasing trends.
