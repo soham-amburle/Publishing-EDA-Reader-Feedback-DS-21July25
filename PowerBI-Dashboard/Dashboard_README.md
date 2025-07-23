@@ -30,9 +30,13 @@ To help publishing teams quickly understand:
 
 ---
 
-## Dashboard Preview
+## Power BI Dashboard Overview
 
-[View Power BI Dashboard (PDF)](PowerBI-Dashboard/BookPublishingInsights_PowerBI_Dashboard.pdf)
+This interactive Power BI dashboard explores reader satisfaction, purchase behavior, and content engagement across different countries and publications.
+
+### 📎 Dashboard PDF
+
+[📄 Click here to view the dashboard (PDF)](BookPublishingInsights_ PowerBI_Dashboard.pdf)
 
 ## Data Source
 
