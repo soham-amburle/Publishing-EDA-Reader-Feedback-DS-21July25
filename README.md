@@ -56,7 +56,7 @@ The script includes:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn (imported but not used yet)
+- Seaborn (imported but not used in this)
 
 ---
 
