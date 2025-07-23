@@ -36,7 +36,7 @@ This interactive Power BI dashboard explores reader satisfaction, purchase behav
 
 ### 📎 Dashboard PDF
 
-[📄 Click here to view the dashboard (PDF)](BookPublishingInsights_ PowerBI_Dashboard.pdf)
+[View Power BI Dashboard (PDF)](BookPublishingInsights_%20PowerBI_Dashboard.pdf)
 
 ## Data Source
 
