@@ -32,18 +32,7 @@ To help publishing teams quickly understand:
 
 ## Dashboard Preview
 
-![Dashboard Preview](../media/dashboard_preview.png)
-
-For a closer look at the dashboard, download the full PDF version below.
-
----
-
-## Files Included
-
-- `publishing_dashboard.pdf` → Full exported dashboard
-- `dashboard_preview.png` → Screenshot of dashboard (optional but recommended)
-
----
+!PowerBI-Dashboard/BookPublishingInsights_ PowerBI_Dashboard.pdf
 
 ## Data Source
 
@@ -58,12 +47,6 @@ This dashboard is based on a synthetic dataset of 1,000 records created for anal
 - `purchase_value` (in EUR)
 - `feedback_length`
 - `submission_date`
-
----
-
-## Download
-
-[View the full dashboard PDF](./publishing_dashboard.pdf)
 
 ---
 
