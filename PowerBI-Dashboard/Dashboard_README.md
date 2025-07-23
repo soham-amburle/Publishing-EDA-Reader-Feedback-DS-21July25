@@ -32,7 +32,7 @@ To help publishing teams quickly understand:
 
 ## Dashboard Preview
 
-!PowerBI-Dashboard/BookPublishingInsights_ PowerBI_Dashboard.pdf
+[View Power BI Dashboard (PDF)](dashboard/BookPublishingInsights_PowerBI_Dashboard.pdf)
 
 ## Data Source
 
