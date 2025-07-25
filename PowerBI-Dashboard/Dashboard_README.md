@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
+
 # Publishing Feedback Dashboard (Power BI)
 
 This dashboard provides a comprehensive view of reader feedback, satisfaction levels, and purchase behavior across various countries and publication types. It was created using Power BI, based on a synthetic dataset of 1,000 entries.
