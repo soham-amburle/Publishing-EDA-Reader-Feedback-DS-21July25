@@ -1,63 +1,68 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
 
-21 July, 2025
-# Publishing EDA (Reader Feedback Dataset)
+**Date:** 21 July, 2025  
+# Publishing EDA – Analyzing Reader Feedback
 
-This project performs an Exploratory Data Analysis (EDA) on large-scale reader feedback collected by a publishing firm. Readers provide reviews and ratings after interacting with magazines, journals, and e-books. The objective is to extract meaningful insights from this data to help the publishing team understand satisfaction levels, content performance, and purchasing trends.
-
----
-
-## Dataset Overview
-
-The dataset is assumed to contain the following columns:
-
-| Column Name         | Description                                                   |
-|---------------------|---------------------------------------------------------------|
-| `reader_name`       | Name or identifier of the reader                              |
-| `country`           | Country from which the feedback was submitted                 |
-| `publication`       | Publication name (e.g., Magazine A, Journal B)                |
-| `satisfaction_score`| Overall satisfaction score (scale: 1–10)                      |
-| `content_quality`   | Rating for the quality of content (scale: 1–10)               |
-| `service_rating`    | Rating for support or service experience (scale: 1–10)        |
-| `purchase_value`    | Amount spent by the reader (in EUR or local currency)         |
-| `feedback_length`   | Length of the feedback submitted (in characters or words)     |
-| `submission_date`   | Date the feedback was submitted                               |
+This project explores and analyzes reader feedback data collected by a publishing firm. The goal is to uncover actionable insights that help the editorial and business teams understand how readers perceive various publications—including magazines, journals, and e-books—based on satisfaction scores, content quality, and purchasing behavior.
 
 ---
 
-## Analysis Performed
+## Dataset Summary
 
-- Previewing the dataset and checking dimensions
-- Viewing column names
-- Counting feedbacks by country
-- Bar chart of top 10 countries by feedback volume
-- Sorting readers by satisfaction score and purchase value
-- Filtering readers by country (e.g., India)
-- Displaying top-rated readers
-- Exploring satisfaction, content quality, and service rating
-- Visualizing top 5 readers using bar plots
-- Country-specific and publication-specific breakdowns
-- Using NumPy for conditional aggregations
+The analysis is based on a structured dataset that contains individual reader responses. Each row represents a feedback entry, including metrics such as satisfaction levels, spending amounts, and qualitative content engagement.
 
----
+**Key columns include:**
 
-## Visualizations
-
-The script includes:
-- Bar chart of top 10 feedback countries
-- Bar chart of top 5 highest-rated readers
-- Bar chart of top 5 purchase value contributors
+| Column | Description |
+|--------|-------------|
+| `reader_name` | Reader's name or unique identifier |
+| `country` | Country of feedback submission |
+| `publication` | Name of the magazine, journal, or e-book |
+| `satisfaction_score` | Overall satisfaction (scale of 1–10) |
+| `content_quality` | Rating for content quality (scale of 1–10) |
+| `service_rating` | Rating of service experience (scale of 1–10) |
+| `purchase_value` | Amount spent by the reader |
+| `feedback_length` | Length of the written feedback |
+| `submission_date` | Date of feedback submission |
 
 ---
 
-## Technologies Used
+## What Was Done
+
+The analysis covered a wide range of exploratory techniques using Python, including:
+
+- Loading and previewing the dataset to understand its structure and shape
+- Listing and reviewing column headers
+- Aggregating feedback volume by country
+- Identifying the top 10 countries with the most feedback using bar charts
+- Sorting readers by high satisfaction scores and purchase values
+- Filtering data for specific regions like India
+- Highlighting top-rated and high-spending readers
+- Breaking down satisfaction, content quality, and service rating scores
+- Visualizing top 5 readers in terms of satisfaction and purchase value
+- Performing conditional aggregations using NumPy
+- Exploring patterns by country and publication type
+
+---
+
+## Key Visuals
+
+The following charts were generated:
+
+- Bar chart showing the top 10 countries based on feedback volume
+- Bar chart of top 5 readers by satisfaction score
+- Bar chart of top 5 readers by purchase value
+
+These visualizations helped surface regional trends and highlight which readers and regions are the most engaged and valuable.
+
+---
+
+## Tools and Libraries Used
 
 - Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn (imported but not used in this)
+- Pandas for data handling
+- NumPy for numerical operations
+- Matplotlib for plotting
+- Seaborn was imported but not utilized in this version of the script
 
 ---
-   ```bash
-   python publishing_feedback_eda.py
