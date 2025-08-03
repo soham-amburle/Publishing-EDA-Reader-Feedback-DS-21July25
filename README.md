@@ -1,13 +1,13 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 21 July, 2025
-# 📊 Publishing EDA (Reader Feedback Dataset)
+# Publishing EDA (Reader Feedback Dataset)
 
 This project performs an Exploratory Data Analysis (EDA) on large-scale reader feedback collected by a publishing firm. Readers provide reviews and ratings after interacting with magazines, journals, and e-books. The objective is to extract meaningful insights from this data to help the publishing team understand satisfaction levels, content performance, and purchasing trends.
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 The dataset is assumed to contain the following columns:
 
@@ -25,9 +25,7 @@ The dataset is assumed to contain the following columns:
 
 ---
 
-## 🔍 Analysis Performed
-
-This script mirrors the functionality used in a previous FIFA EDA project and strictly reuses the same types of analysis:
+## Analysis Performed
 
 - Previewing the dataset and checking dimensions
 - Viewing column names
@@ -43,7 +41,7 @@ This script mirrors the functionality used in a previous FIFA EDA project and st
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The script includes:
 - Bar chart of top 10 feedback countries
@@ -52,7 +50,7 @@ The script includes:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Pandas
@@ -61,11 +59,5 @@ The script includes:
 - Seaborn (imported but not used in this)
 
 ---
-
-## ▶️ How to Use
-
-1. Clone the repository.
-2. Add your dataset as `publishing_feedback.csv` in the root folder.
-3. Run the script `publishing_feedback_eda.py`:
    ```bash
    python publishing_feedback_eda.py
