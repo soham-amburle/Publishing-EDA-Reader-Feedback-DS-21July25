@@ -3,7 +3,7 @@
 **Date:** 21 July, 2025  
 # Publishing EDA – Analyzing Reader Feedback
 
-This project explores and analyzes reader feedback data collected by a publishing firm. The goal is to uncover actionable insights that help the editorial and business teams understand how readers perceive various publications—including magazines, journals, and e-books—based on satisfaction scores, content quality, and purchasing behavior.
+This project explores and analyzes reader feedback data collected by a publishing firm. The goal is to uncover actionable insights that help the editorial and business teams understand how readers perceive various publications, including magazines, journals, and e-books, based on satisfaction scores, content quality, and purchasing behavior.
 
 ---
 
