@@ -1,7 +1,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 **Date:** 21 July, 2025  
-# Publishing EDA – Analyzing Reader Feedback
+# Publishing EDA (Exploratory Data Analysis) – Analyzing Reader Feedback
 
 This project explores and analyzes reader feedback data collected by a publishing firm. The goal is to uncover actionable insights that help the editorial and business teams understand how readers perceive various publications, including magazines, journals, and e-books, based on satisfaction scores, content quality, and purchasing behavior.
 
