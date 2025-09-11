@@ -29,7 +29,7 @@ The analysis is based on a structured dataset that contains individual reader re
 
 ## What Was Done
 
-The analysis covered a wide range of exploratory techniques using Python, including:
+The analysis covered a wide range of exploratory techniques using Python, suxh as:
 
 - Loading and previewing the dataset to understand its structure and shape
 - Listing and reviewing column headers
