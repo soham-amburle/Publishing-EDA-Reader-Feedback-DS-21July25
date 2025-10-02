@@ -64,5 +64,4 @@ These visualizations helped surface regional trends and highlight which readers 
 - NumPy for numerical operations
 - Matplotlib for plotting
 - Seaborn was imported but not utilized in this version of the script
-
 ---
