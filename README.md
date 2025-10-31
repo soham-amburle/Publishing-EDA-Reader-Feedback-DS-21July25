@@ -16,7 +16,7 @@ The analysis is based on a structured dataset that contains individual reader re
 | Column | Description |
 |--------|-------------|
 | `reader_name` | Reader's name or unique identifier |
-| `country` | Country of feedback submission |
+| `country` | Country where the feedback was submitted |
 | `publication` | Name of the magazine, journal, or e-book |
 | `satisfaction_score` | Overall satisfaction (scale of 1–10) |
 | `content_quality` | Rating for content quality (scale of 1–10) |
